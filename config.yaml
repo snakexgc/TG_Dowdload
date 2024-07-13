@@ -8,8 +8,8 @@ proxy:
   type: http
   host: 127.0.0.1
   port: 10811
-  username:
-  password:
+  username: ""
+  password: ""
 rclone:
   binary_path: /usr/bin/rclone
   remote_name: onedrive
