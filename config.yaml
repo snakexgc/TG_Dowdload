@@ -1,0 +1,17 @@
+telegram:
+  api_id: 11111
+  api_hash: 1111111
+  phone_number: +11111111
+  bot_token: 111111
+  allowed_user_id: 11111
+proxy:
+  type: http
+  host: 127.0.0.1
+  port: 10811
+  username:
+  password:
+rclone:
+  binary_path: /usr/bin/rclone
+  remote_name: onedrive
+  remote_path: /update
+  upload: false
